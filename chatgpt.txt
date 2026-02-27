@@ -1,0 +1,15 @@
+Monte um exercicio com K8s
+
+preciso que cada etapa seja explicada porem quero aprender sozinho e vc como um mestre me auxiliando.
+
+quero que seja aplicada os conceitos de deployments, statefullset, pvc, pod,sc, volumes e persistencia de dados, ter variaveis de ambiente, tudo que estudei ate agora, vou deixar em anexo anotações que fiz para dar um norte para voce na elaboração da atividade.
+
+Minha ideia era uma aplicação simples em js que seja um bloco de notas onde faço anotações e os dados dela fiquem salvos em bd igual como seria uma aplicação real, quero com css simples porem dinamico e responsivo algo bonito, tela de login, quero que seja possivel incluir imagens ou textos.
+
+talvez seja legal eu começar la da parte do docker, criando o dockerfile, docker compose dps indo pro docker hub, git hub action fazendo testes para ai entao levar ao Kubernetes, talvez seria legal levar para AWS eu tenho conta estudante com 110 dolares disponiveis podemos levar e tornar publica essa aplicação seria legal.
+
+ali no git hub vamos fazer o processo de testes, ci e cd completo se possivel um teste de roolback ate mesmo ao deploy, lembrando que no git mas em todo o projeto preciso seguir as melhores praticas de um cenario profissional atual.
+
+
+cada etapa desse desafio voce sera meu ajudante, em ensine. Vamos com calma passo a passo e quando eu concluir um passo e estiver validado eu indico se avançamos ou não. Monte um plano para isso tudo, para gente nao se perder neste projeto e nos desafio precisamos ter essas decisoes centralizadas, vou deixar o meu repositorio do git hub para voce incluir dados caso queira.
+
